@@ -78,9 +78,9 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart pinky",
-            "RESTART_MSG": "*Restarting Alexa👸*",
-            "SHUTDOWN_DESC": "*Shutdown Alexa👸*",
-            "SHUTDOWN_MSG": "```Alexa Shutting down 👸```",
+            "RESTART_MSG": "ʀᴇꜱᴛᴀʀᴛɪɴɢ ᴘɪɴᴋʏ",
+            "SHUTDOWN_DESC": "Shutdown pinky",
+            "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -172,8 +172,8 @@
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*Give me a photo!*",
-            "NO_API_KEY": "API Key illa monaa Hariyodu add akkaan para.",
-            "RBGING": "```Background maayikkunnu.```"
+            "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
+            "RBGING": "```ʀᴇᴍᴏᴠɪɴɢ ʙᴀᴄᴋɢʀᴏᴜɴᴅ```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -241,10 +241,10 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update for pinky.",
-            "UPDATE": "*Your Alexa is completely up-to-date*",
+            "UPDATE": "ʏᴏᴜʀ ᴘɪɴᴋʏ ɪꜱ ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ᴜᴘ-ᴛᴏ-ᴅᴀᴛᴇ",
             "NEW_UPDATE": "*New update available for pinky!*\n\n ```use .list for commands``` \n\n *ask support group before updating or your bot might stop working* \n\n https://chat.whatsapp.com/EWLP9VPgYmgGff6NORWSKk \n\n *-if bot stop working you will have to re-deploy* \n\n Updates are:\n\n ",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "*Alexa Updating...*",
+            "UPDATING": "ᴘɪɴᴋʏ ᴜᴘᴅᴀᴛɪɴɢ...",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*✅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ!*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
