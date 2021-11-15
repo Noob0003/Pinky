@@ -74,9 +74,8 @@ r_text[26] = "The only person you are destined to become is the person you decid
 r_text[27] = "When we strive to become better than we are, everything around us becomes better too.\n       -Paulo Coelho";
 r_text[28] = "There are three things you can do with your life: You can waste it, you can spend it, or you can invest it. The best use of your life is to invest it in something that will last longer than your time on Earth.\n       -Rick Warren";
 r_text[29] = "You only pass through this life once, you don't come back for an encore.\n       -Elvis Presley";
-r_text[30] = "motivate cheyaan aarkum kayyum ath cheyth kaanikkaaana paad.\n       -Alexa";
-r_text[31] = "Jeevithathil undaakunna vedhanakal orth dhukikkaathe marich jeevithathe snehikkukayanenkil jeevitham kure koode mechappedum.\n         -Hari";
-var i = Math.floor(32*Math.random())
+r_text[30] = "motivate cheyaan aarkum kayyum ath cheyth kaanikkaaana paad.\n       -Pinky";    
+var i = Math.floor(31*Math.random())
        
     if (Config.ALIVEMSG.includes('{pp}')) {
         
@@ -99,12 +98,7 @@ var i = Math.floor(32*Math.random())
         a_plk[8] = "https://images.pexels.com/photos/8566473/pexels-photo-8566473.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500";
         a_plk[9] = "https://wallpapercave.com/wp/wp2957455.jpg";
         a_plk[10] = "https://i.imgur.com/1PPJq0Q.jpeg";
-        a_plk[11] = "https://i.imgur.com/jVNSkQl.jpeg";
-        a_plk[12] = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2F0e5WlQC.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fcute-robot-wallpaper&docid=rXAcNsRkpqvSiM&tbnid=LQASkXP_4rWv2M&vet=1&w=1600&h=1000&source=sh%2Fx%2Fim";
-        a_plk[13] = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2FWjG7fJe.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fcute-robot-wallpaper&docid=rXAcNsRkpqvSiM&tbnid=AnPdbLRx9mucBM&vet=1&w=1920&h=1200&itg=1&source=sh%2Fx%2Fim";
-        a_plk[14] = "https://images.app.goo.gl/tWMvT4s435RgPZcD9";
-        a_plk[15] = "https://images.app.goo.gl/kk7aUCW4b8hAf9SF7";
-	 var p = Math.floor(16*Math.random())
+	 var p = Math.floor(11*Math.random())
 
         var plk_alive = await axios.get(`${a_plk[p]}`, { responseType: 'arraybuffer' })
 //codded by afnanplk
