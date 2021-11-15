@@ -77,10 +77,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart pinky",
-            "RESTART_MSG": "ʀᴇꜱᴛᴀʀᴛɪɴɢ ᴘɪɴᴋʏ",
-            "SHUTDOWN_DESC": "Shutdown pinky",
-            "SHUTDOWN_MSG": "```Shutting down ⛔```",
+            "RESTART_DESC": "Restart Alexa",
+            "RESTART_MSG": "ʀᴇꜱᴛᴀʀᴛɪɴɢ alexa",
+            "SHUTDOWN_DESC": "Shutdown alexa",
+            "SHUTDOWN_MSG": "```Alexa shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
