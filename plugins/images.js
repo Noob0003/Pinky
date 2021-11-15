@@ -1504,13 +1504,13 @@ else if (Config.WORKTYPE == 'public') {
 
     }));
     
-    MyPnky.addCommand({pattern: 'pink', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+    MyPnky.addCommand({pattern: 'alexa', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
         
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
-r_text[1] = "pinkye tholpikkaan ningalkavilla. Jeevitathil pinkiye tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
-r_text[2] = "pinky says i love you 😘";
-r_text[3] = "Pinkyudeyude yudhangal Company Kanan Povunnatheyuloo";
+r_text[1] = "alexaye tholpikkaan ningalkavilla. Jeevitathil pinkiye tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
+r_text[2] = "alexa says i love you 😘";
+r_text[3] = "alexayude yudhangal Company Kanan Povunnatheyuloo";
 r_text[4] = "hi, how are you";
 r_text[5] = "ennikk korch rest theroo...🥵🥵";
 r_text[6] = "pinky - eva - simsim \ningane ethra ethra paerugal aan alle enikk..😂🤣";
