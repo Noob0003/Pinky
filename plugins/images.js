@@ -1504,7 +1504,7 @@ else if (Config.WORKTYPE == 'public') {
 
     }));
     
-    MyPnky.addCommand({pattern: 'alexa', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+    MyPnky.addCommand({pattern: 's', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
         
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
