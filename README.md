@@ -1,10 +1,10 @@
 ## Thanks for Everything 
-### We will always remember you..
+### We will always remember you jk
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/aFmdYAi.jpeg" width="200" height="200"/>
+  <img border-radius: 40px src="https://i.imgur.com/qiOJVHs.jpeg" width="400" height="250"/>
   <p align="center">
-<a href="#"><img title="Alexa" src="https://img.shields.io/badge/HARI-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="mai san"src="https://img.shields.io/badge/HARI-MANU-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://chat.whatsapp.com/Ioo8xNPBfEcADzPkdvkfvo"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
@@ -12,7 +12,10 @@
 </div>
 <p align="center">
 Project created by <a href="https://github.com/HARI-SANTH">Hari</a> to make it public
-    <br>
+<br>
+edited by <a href="https://github.com/noob0003">noob</a>
+
+<br>
        | © |
         Reserved |
     <br> 
@@ -28,9 +31,8 @@ Project created by <a href="https://github.com/HARI-SANTH">Hari</a> to make it p
 ## Setup
 <div align="center">
 
-  ### Simple Method
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HARI-SANTH/Pinky)
+### Simple Method
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/noob0003/senpai)
 
 
 
@@ -77,7 +79,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
   
 ### thanks for your help and support guys
-    `saidalli, amal ser, ichu, karthik, lyf, farhan, ihsan, hyper, muhsin, sahal, cherry 🥰🥰, plk`
+    `saidalli, hari, amal ser, ichu, karthik, lyf, farhan, ihsan, hyper, muhsin, sahal, cherry 🥰🥰, plk`
 
 ### when forking 
 ```
