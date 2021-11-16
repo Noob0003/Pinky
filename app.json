@@ -1,9 +1,9 @@
 {
-    "name": "ALEXA",
-    "description": "ALEXA - re-edited from PINKY AFNAN.",
-    "logo": "https://i.imgur.com/aFmdYAi.jpeg",
+    "name": "Senpai",
+    "description": "senpai - re-edited from PINKY AFNAN.",
+    "logo": "https://i.imgur.com/qiOJVHs.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/HARI-SANTH/Pinky",
+    "repository": "https://github.com/noob0003/Pinky",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
