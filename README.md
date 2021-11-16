@@ -32,7 +32,7 @@ edited by <a href="https://github.com/noob0003">noob</a>
 <div align="center">
 
 ### Simple Method
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/noob0003/senpai)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/noob0003/Pinky)
 
 
 
