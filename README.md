@@ -4,7 +4,7 @@
 <div align="center">
   <img border-radius: 40px src="https://i.imgur.com/qiOJVHs.jpeg" width="400" height="250"/>
   <p align="center">
-<a href="#"><img title="mai san"src="https://img.shields.io/badge/HARI-MANU-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="siri"src="https://img.shields.io/badge/HARI-MANU-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://chat.whatsapp.com/Ioo8xNPBfEcADzPkdvkfvo"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
