@@ -2,7 +2,7 @@
 ### We will always remember you <3
 
 <div align="center">
-  <img border-radius: 40px src="https://i.imgur.com/qiOJVHs.jpeg" width="400" height="250"/>
+  <img border-radius: 40px src="https://i.imgur.com/L6k2Udy.jpeg" width="120" height="155"/>
   <p align="center">
 <a href="#"><img title="siri"src="https://img.shields.io/badge/HARI-MANU-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
