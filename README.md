@@ -1,5 +1,5 @@
 ## Thanks for Everything 
-### We will always remember you jk
+### We will always remember you <3
 
 <div align="center">
   <img border-radius: 40px src="https://i.imgur.com/qiOJVHs.jpeg" width="400" height="250"/>
